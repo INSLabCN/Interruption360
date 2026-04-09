@@ -36,8 +36,6 @@ The dataset includes the following information for each participant and trial:
 - **UI display states**
 - **Interaction-related annotations**
 - **Phase labels** (Free-viewing / Interruption / Recovery / Reset)
-- **Pre-test questionnaire data**
-- **After-test questionnaire data**
 
 The released data are **de-identified** and do not contain personally identifying information.
 
